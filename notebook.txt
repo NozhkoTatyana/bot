@@ -1,0 +1,3 @@
+notebook 15;128gb;1100$
+notebook 15;256gb;1250$
+notebook 15 Pro;256gb;1450$
